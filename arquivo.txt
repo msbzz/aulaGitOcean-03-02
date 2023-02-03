@@ -1,1 +1,2 @@
 teste edição git
+Estou editando direto pelo GitHub
