@@ -7,3 +7,6 @@
   
   Aqui temos a simulação de tres usuarios realizando edições sendo que dois usando uma branch secundaria (dev1) e 
   outro a branch main
+  
+  Validação do comando PULL através da edição do arq2 pelo usuario1 onde o usuario2 faz edita o arq3 e faz um push
+  onde posteriormente o usuario1 edita novamente mas não realiza qualquer comando a não ser o PULL para se atualizar
