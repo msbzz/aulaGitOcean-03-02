@@ -7,5 +7,5 @@
   
   Nesta aula é simulado o uso do projeto por três usuários onde usuario1 e usuario2 utilizam uma branch alternativa (dev1) e o usuario3 usara a branch main
   
-  Validação do comando PULL através da edição do arq2 pelo usuario1 onde o usuario2 faz edita o arq3 e faz um push
-  onde posteriormente o usuario1 edita novamente mas não realiza qualquer comando a não ser o PULL para se atualizar
+  Validação do comando PULL através da edição do arq2 pelo usuario1 onde o usuario2 faz edita o arq3. O usuario2 e faz um push
+  onde posteriormente o usuario3 tenta fazer seu push porem não consegue devido a ser obrigado a fazer PULL para se atualizar.
