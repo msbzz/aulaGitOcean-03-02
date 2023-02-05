@@ -5,6 +5,6 @@ complemento criado pelo user2 em 04/02/2023 as 16:11 branch dev1
 edição user 1 em 04/02/2023 as 16:22 branch dev1
 outra edição user 1 em 04/02/2023 as 16:32 branch dev1
 Nova edição user 1 em 05/02/2023 branch main (1)
-complemento criado pelo user2 em 05/02/2023 - (02 14:10)
-outro complemento do user2 em 05/02/2023 - (03 15:41)
+complemento criado pelo user2 em 05/02/2023 - (02 - 14:10)
+outro complemento do user2 em 05/02/2023 - (03 - 15:41)
  
